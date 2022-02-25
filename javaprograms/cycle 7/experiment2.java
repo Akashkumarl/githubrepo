@@ -65,5 +65,3 @@ class experiment2
   }
 }
 
-© 2022 GitHub, Inc.
-T
